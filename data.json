@@ -5,18 +5,6 @@
     "phone_number": "5511937182408"
   },
   "banners": [
-    {
-      "id": 2,
-      "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&q=80&w=1200",
-      "title": "Volta às Aulas",
-      "subtitle": "Tudo para o dia a dia escolar"
-    },
-    {
-      "id": 1,
-      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?auto=format&fit=crop&q=80&w=1200",
-      "title": "Nova Coleção de Verão",
-      "subtitle": "Estilo e conforto para os pequenos"
-    }
   ],
   "categories": [
     {
@@ -188,3 +176,4 @@
     }
   ]
 }
+
