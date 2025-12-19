@@ -1,0 +1,151 @@
+{
+  "siteConfig": {
+    "name": "Doce Modinha",
+    "logoText": "Doce Modinha"
+  },
+  "banners": [
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&q=80&w=1200",
+      "title": "Volta às Aulas",
+      "subtitle": "Tudo para o dia a dia escolar"
+    },
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?auto=format&fit=crop&q=80&w=1200",
+      "title": "Nova Coleção de Verão",
+      "subtitle": "Estilo e conforto para os pequenos"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Menina",
+      "image": "https://img.freepik.com/free-photo/little-fashionable-lady-with-long-eyelashes-looking-with-interest-while-standing-road-elegant-hat-outdoor-portrait-shy-brown-haired-girl-wearing-cute-white-gown_197531-3959.jpg?semt=ais_hybrid&w=740&q=80",
+      "link": "Menina"
+    },
+    {
+      "id": 2,
+      "name": "Menino",
+      "image": "https://media.istockphoto.com/id/1399611777/pt/foto/portrait-of-a-smiling-little-brown-haired-boy-looking-at-the-camera-happy-kid-with-good.jpg?s=612x612&w=0&k=20&c=7Jcx5NsIbyqPE2xWamyWQtuwECSox0wmoXvat3elBX8=",
+      "link": "Menino"
+    },
+    {
+      "id": 3,
+      "name": "Bebê",
+      "image": "https://img.freepik.com/fotos-gratis/bebe-com-bicho-de-pelucia_52683-124509.jpg?semt=ais_hybrid&w=740&q=80",
+      "link": "Bebê"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "title": "Vestido Floral Primavera",
+      "images": [
+        "https://www.bebefofuxo.com.br/lojas/00020368/prod/450G.jpg",
+        "https://images.unsplash.com/photo-1502451376662-31dc8cad0b48?auto=format&fit=crop&q=80&w=400",
+        "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&q=80&w=400"
+      ],
+      "price": 89.9,
+      "oldPrice": 109.9,
+      "discount": "18%",
+      "sizes": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "brand": "Lilica",
+      "category": "Roupas",
+      "gender": "Menina",
+      "color": "Rosa",
+      "season": "Verão"
+    },
+    {
+      "id": 102,
+      "title": "Conjunto Moletom Dino",
+      "images": [
+        "https://www.bebefofuxo.com.br/lojas/00020368/prod/450G.jpg",
+        "https://images.unsplash.com/photo-1457545195570-67f207084966?auto=format&fit=crop&q=80&w=400"
+      ],
+      "price": 129.9,
+      "oldPrice": null,
+      "discount": null,
+      "sizes": [
+        "2",
+        "4",
+        "6"
+      ],
+      "brand": "Tigor",
+      "category": "Roupas",
+      "gender": "Menino",
+      "color": "Verde",
+      "season": "Inverno"
+    },
+    {
+      "id": 103,
+      "title": "Camiseta Estampada",
+      "images": [
+        "https://www.bebefofuxo.com.br/lojas/00020368/prod/450G.jpg"
+      ],
+      "price": 49.9,
+      "oldPrice": 59.9,
+      "discount": "16%",
+      "sizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "brand": "Brandili",
+      "category": "Roupas",
+      "gender": "Menino",
+      "color": "Azul",
+      "season": "Verão"
+    },
+    {
+      "id": 104,
+      "title": "Jardineira Jeans",
+      "images": [
+        "https://www.bebefofuxo.com.br/lojas/00020368/prod/450G.jpg",
+        "https://images.unsplash.com/photo-1473215570535-30fa17d057a6?auto=format&fit=crop&q=80&w=400"
+      ],
+      "price": 99.9,
+      "oldPrice": 119.9,
+      "discount": "16%",
+      "sizes": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "brand": "Milon",
+      "category": "Roupas",
+      "gender": "Unissex",
+      "color": "Azul",
+      "season": "Meia-Estação"
+    },
+    {
+      "id": 105,
+      "title": "Jaqueta Bomber Colorida",
+      "images": [
+        "https://www.bebefofuxo.com.br/lojas/00020368/prod/450G.jpg"
+      ],
+      "price": 149.9,
+      "oldPrice": null,
+      "discount": null,
+      "sizes": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "brand": "Kyly",
+      "category": "Roupas",
+      "gender": "Menina",
+      "color": "Colorido",
+      "season": "Inverno"
+    }
+  ]
+}
